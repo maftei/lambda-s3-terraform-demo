@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+
+# Lambda build artifacts
+lambda.zip
+
+# OS
+.DS_Store
+
+# Logs
+*.log
